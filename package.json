@@ -1,0 +1,13 @@
+{
+	"name" : "mean-stack-demo",
+	"version" : "1.0.0",
+	"main" : "server.js",
+	"author" : "Abhinav Kumar",
+	"description" : "This application is created to demonstrate mean stack development",
+	"dependencies": {
+    	"express": "latest",
+    	"morgan" : "latest",
+    	"body-parser":"latest",
+    	"mongoose": "latest"
+  }
+}
